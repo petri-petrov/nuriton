@@ -1,0 +1,8 @@
+User-Agent: *
+allow: /wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+ 
+Sitemap: https://crossfitlouvre3.com/post-sitemap.xml
+Sitemap: https://crossfitlouvre3.com/page-sitemap.xml
